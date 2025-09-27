@@ -18,3 +18,11 @@ It is designed as a **recruiter-facing portfolio project** to demonstrate end-to
 - Added flags for remote jobs and extracted seniority levels  
 - Added a fixed `scrape_date` (2025-09-25) to mark dataset snapshot  
 - Final cleaned dataset saved as: **`data/Swiss-jobs-cleaned-final.csv`**
+
+## Exploratory Data Analysis (Day 2)
+- Performed job market overview (companies, cities, job titles)  
+- Visualized top hiring cities, companies, and roles in demand  
+- Compared remote vs onsite vs hybrid work across cantons  
+- Analyzed seniority levels and city–seniority breakdowns  
+- Exported recruiter-ready visuals → `/visuals/`  
+- *Personal reflection included at the end of the notebook* 

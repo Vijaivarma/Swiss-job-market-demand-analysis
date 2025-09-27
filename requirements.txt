@@ -1,0 +1,18 @@
+# Core libraries
+pandas
+numpy
+deep-translator
+
+# Visualization
+matplotlib
+seaborn
+
+# Database connectivity
+sqlalchemy
+pymysql
+
+# Power BI export
+openpyxl
+
+# Notebook support
+jupyter

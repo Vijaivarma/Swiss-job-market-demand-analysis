@@ -10,4 +10,3 @@ Thumbs.db
 # Ignore local data exports
 *.xlsx
 *.pbix
-*.png
